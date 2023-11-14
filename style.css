@@ -1,0 +1,51 @@
+.ers {
+    text-align: center;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.braslet {
+    margin: 2px;
+    margin-bottom:300px;
+    width: 200px;
+    height: 400px;
+    background-color: white;
+    flex-basis: 400px;
+    flex: 1 2 400px;
+    text-align: center;
+}
+.anuar {
+    color: black;
+    cursor: pointer;
+}
+.anuar:hover {
+    color: pink;
+    transition: 0,3s;
+}
+.er {
+    text-align: center;
+}
+.zhen {
+    padding: 15px 15px 15px ;
+    border: 3px solid pink;
+    width: 300px;
+    margin: 0 auto;
+    background-color: pink;
+}
+.zhen {
+    color: black;
+    cursor: pointer;
+}
+.zhen:hover {
+    color: white;
+    transition: 0,3s;
+}
+.qadyr {
+    color: black;
+    cursor: pointer;
+}
+.qadyr:hover {
+    color: pink;
+    transition: 0,3s;
+}
